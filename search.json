@@ -213,7 +213,7 @@
     "href": "index.html",
     "title": "Yuri’s Tutorial",
     "section": "",
-    "text": "It’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.\nCreating websites with Quarto can be done without knowing R, Python or HTML, CSS, etc, and that’s where we’ll start. However, Quarto integrates with these tools so you can make your websites as complex and beautiful as you like as you see examples and reuse and remix from others in the open community. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too – there are links throughout.",
+    "text": "Area teste",
     "crumbs": [
       "Welcome"
     ]
@@ -222,8 +222,8 @@
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Yuri’s Tutorial",
-    "section": "",
-    "text": "It’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.\nCreating websites with Quarto can be done without knowing R, Python or HTML, CSS, etc, and that’s where we’ll start. However, Quarto integrates with these tools so you can make your websites as complex and beautiful as you like as you see examples and reuse and remix from others in the open community. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too – there are links throughout.",
+    "section": "Welcome",
+    "text": "Welcome\nIt’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.\nCreating websites with Quarto can be done without knowing R, Python or HTML, CSS, etc, and that’s where we’ll start. However, Quarto integrates with these tools so you can make your websites as complex and beautiful as you like as you see examples and reuse and remix from others in the open community. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too – there are links throughout.",
     "crumbs": [
       "Welcome"
     ]
