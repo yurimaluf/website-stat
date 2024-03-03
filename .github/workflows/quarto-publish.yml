@@ -28,3 +28,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
       
+      - name: Build site
+        run: bookdown::render_book("index.Rmd", quiet = TRUE)
+        shell: Rscript {0}
