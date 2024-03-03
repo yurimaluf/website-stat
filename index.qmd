@@ -1,6 +1,6 @@
 ---
 title: "Yuri's Tutorial"
-subtitle: "Stats Educational"
+subtitle: "May the force of statistical data be with you!"
 ---
 
 ## Welcome {#welcome}
